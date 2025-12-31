@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "FIESTA",
+  "base_artist": "IZ*ONE (아이즈원)",
+  "createdAt": "2025-12-31T16:07:51.505414Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Fiesta (with Resaca Sudaca)",
+      "artist": "Joan Manuel Serrat feat. Resaca Sudaca",
+      "has_synced": false,
+      "path": "select/01_Fiesta_(with_Resaca_Sudaca)_Joan_Manuel_Serrat_feat._Resaca_Sudaca.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Fiesta (With Resaca Sudaca)",
+      "artist": "Joan Manuel Serrat, Resaca Sudaca",
+      "has_synced": false,
+      "path": "select/02_Fiesta_(With_Resaca_Sudaca)_Joan_Manuel_Serrat,_Resaca_Sudaca.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Fiesta",
+      "artist": "The Pogues",
+      "has_synced": true,
+      "path": "select/03_Fiesta_The_Pogues.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Fiesta",
+      "artist": "The Pogues",
+      "has_synced": true,
+      "path": "select/04_Fiesta_The_Pogues.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Fiesta mexicana (remastered)",
+      "artist": "Jorge Negrete",
+      "has_synced": false,
+      "path": "select/05_Fiesta_mexicana_(remastered)_Jorge_Negrete.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Fiesta",
+      "artist": "Bomba Estéreo",
+      "has_synced": true,
+      "path": "select/06_Fiesta_Bomba_Estéreo.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Mayday!!! Fiesta Fever - Live from 2020",
+      "artist": "AWOLNATION",
+      "has_synced": true,
+      "path": "select/07_Mayday!!!_Fiesta_Fever_-_Live_from_2020_AWOLNATION.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Mayday!!! Fiesta Fever",
+      "artist": "AWOLNATION",
+      "has_synced": true,
+      "path": "select/08_Mayday!!!_Fiesta_Fever_AWOLNATION.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Furious Fiesta",
+      "artist": "Mano Negra",
+      "has_synced": false,
+      "path": "select/09_Furious_Fiesta_Mano_Negra.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Fiesta",
+      "artist": "R. Kelly",
+      "has_synced": true,
+      "path": "select/10_Fiesta_R._Kelly.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Fiesta",
+      "artist": "Gianna Nannini",
+      "has_synced": true,
+      "path": "select/11_Fiesta_Gianna_Nannini.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Fiesta tosta",
+      "artist": "Litfiba",
+      "has_synced": false,
+      "path": "select/12_Fiesta_tosta_Litfiba.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Fiesta (Remix)",
+      "artist": "Sicko Mobb feat. A$AP Ferg",
+      "has_synced": true,
+      "path": "select/13_Fiesta_(Remix)_Sicko_Mobb_feat._A$AP_Ferg.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Fiesta Remix",
+      "artist": "Sicko Mobb; A$AP Ferg",
+      "has_synced": true,
+      "path": "select/14_Fiesta_Remix_Sicko_Mobb;_A$AP_Ferg.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "La Fiesta Nacional",
+      "artist": "Mecano",
+      "has_synced": true,
+      "path": "select/15_La_Fiesta_Nacional_Mecano.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Me Colé en una Fiesta",
+      "artist": "Mecano",
+      "has_synced": true,
+      "path": "select/16_Me_Colé_en_una_Fiesta_Mecano.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "FIESTA",
+      "artist": "IZ*ONE",
+      "has_synced": false,
+      "path": "select/pl_01_FIESTA_IZ_ONE.txt"
+    }
+  ]
+}
